@@ -1,0 +1,40 @@
+_repo: A-Yankee-Flier-with-the-R.A.F._32420
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Laune, Paul
+    birthdate: 1899
+    gutenberg_agent_id: '34154'
+    url: http://www.gutenberg.org/2009/agents/34154
+covers:
+- cover_type: archival
+  image_path: 32420-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Montgomery, Rutherford G. (Rutherford George)
+    aliases:
+    - Montgomery, R. G. (Rutherford George)
+    - Proctor, Everitt
+    - Avery, Al
+    - Montgomery, Rutherford George
+    birthdate: 1896
+    deathdate: 1985
+    gutenberg_agent_id: '34150'
+    url: http://www.gutenberg.org/2009/agents/34150
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2010-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Great Britain. Royal Air Force -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'World War, 1939-1945 -- Aerial operations -- Juvenile fiction'
+title: A Yankee Flier with the R.A.F.
+url: http://www.gutenberg.org/ebooks/32420
